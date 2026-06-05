@@ -1,11 +1,16 @@
 # AssistDoc — Assistente Inteligente de Documentos
 ### Relatório Técnico
 
-**Disciplinas:** Construindo Sistemas Inteligentes (IA) · Construção de Sistemas Seguros
-**Curso:** Análise e Desenvolvimento de Sistemas (ADS)
-**Equipe:** _[nomes dos integrantes]_
-**Repositório:** _[URL do GitHub]_
-**Data:** _[data de entrega]_
+**Disciplinas:** Desenvolver Sistemas Inteligentes (IA) · Desenvolver Sistemas Seguros (SEC)  
+**Curso:** Análise e Desenvolvimento de Sistemas (ADS)  
+**Equipe:**
+- Daniel Marques do Nascimento - 2415050075
+- Gabriel Castro C. J. Mamede - 2415050064
+- José Willianson Santos Dantas - 2415050060
+- Nicholas Almeida Ramirez Emery - 2415050077
+- Yveen Barbosa Nóbrega - 2415050069  
+
+**Repositório:** https://github.com/danielspiker/assistdoc
 
 ---
 

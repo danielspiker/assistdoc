@@ -5,8 +5,8 @@ natural sobre regimento, manual do aluno e politicas da instituicao, citando a
 fonte (documento + pagina). Usa **RAG** + **Long Context**.
 
 Projeto integrador — cobre duas disciplinas:
-- **Construindo Sistemas Inteligentes (IA):** pipeline RAG + Long Context.
-- **Construcao de Sistemas Seguros:** auth JWT, RBAC, auditoria, OWASP.
+- **Desenvolver Sistemas Inteligentes (IA):** pipeline RAG + Long Context.
+- **Desenvolver Sistemas Seguros (SEC):** auth JWT, RBAC, auditoria, OWASP.
 
 ## Stack
 Python · FastAPI · Ollama (LLM local) · LangChain · Chroma (Vector DB) · Streamlit · SQLite
