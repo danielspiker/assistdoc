@@ -1,0 +1,61 @@
+POLÍTICA DE ESTÁGIO SUPERVISIONADO
+Instituto de Tecnologia Horizonte (ITH) — 2026.1
+Curso de Análise e Desenvolvimento de Sistemas
+Documento fictício gerado para fins acadêmicos
+
+SEÇÃO 1 — DAS DISPOSIÇÕES GERAIS
+
+1.1  Esta Política regulamenta o Estágio Supervisionado obrigatório e o estágio
+não obrigatório dos estudantes de ADS, em conformidade com a Lei nº 11.788/2008
+(Lei do Estágio).
+
+1.2  O estágio é ato educativo escolar supervisionado, desenvolvido em ambiente
+de trabalho, visando à preparação para a vida profissional.
+
+SEÇÃO 2 — DO ESTÁGIO OBRIGATÓRIO
+
+2.1  O Estágio Supervisionado obrigatório possui carga horária mínima de 160
+(cento e sessenta) horas e é requisito para a colação de grau.
+
+2.2  Somente pode iniciar o estágio obrigatório o aluno regularmente
+matriculado a partir do 4º período do curso.
+
+2.3  A jornada de estágio não pode ultrapassar 6 (seis) horas diárias e 30
+(trinta) horas semanais.
+
+2.4  O estágio exige a celebração de Termo de Compromisso entre o estudante, a
+instituição de ensino e a empresa concedente.
+
+SEÇÃO 3 — DO ESTÁGIO NÃO OBRIGATÓRIO
+
+3.1  O estágio não obrigatório é opcional e, quando remunerado, exige o
+pagamento de bolsa-auxílio e auxílio-transporte pela concedente.
+
+3.2  As horas de estágio não obrigatório podem ser aproveitadas como Atividades
+Complementares, até o limite de 40 (quarenta) horas.
+
+SEÇÃO 4 — DA SUPERVISÃO E ACOMPANHAMENTO
+
+4.1  Cada estagiário terá um professor orientador na instituição e um
+supervisor na empresa concedente.
+
+4.2  O estudante deve entregar Relatórios de Estágio parciais a cada 80 horas
+cumpridas e um Relatório Final ao término do estágio.
+
+4.3  A aprovação no estágio depende da entrega dos relatórios e da avaliação do
+supervisor da empresa, com nota mínima 6,0.
+
+SEÇÃO 5 — DO SEGURO E DAS OBRIGAÇÕES
+
+5.1  É obrigatória a contratação de seguro contra acidentes pessoais em favor
+do estagiário, ônus da parte concedente ou da instituição, conforme o caso.
+
+5.2  O descumprimento das obrigações do Termo de Compromisso pode acarretar o
+encerramento do estágio a qualquer tempo.
+
+SEÇÃO 6 — DA DISPENSA
+
+6.1  O aluno que comprovar exercício de atividade profissional na área de TI,
+por meio de carteira de trabalho ou contrato, por período igual ou superior a
+6 meses, poderá requerer dispensa parcial das horas de estágio obrigatório,
+mediante análise do Colegiado.

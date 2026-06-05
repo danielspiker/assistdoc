@@ -1,0 +1,402 @@
+[
+  {
+    "user_input":"Qual a frequencia minima obrigatoria em cada disciplina?",
+    "retrieved_contexts":[
+      "TÍTULO III — DA FREQUÊNCIA E AVALIAÇÃO\n\nArt. 5º  É obrigatória a frequência mínima de 75% (setenta e cinco por cento)\nda carga horária de cada disciplina.\n\nArt. 6º  O estudante que não atingir a frequência mínima de 75% será reprovado\npor falta na disciplina, independentemente do seu desempenho nas avaliações.\n\nArt. 7º  A nota final de cada disciplina varia de 0 (zero) a 10 (dez), sendo\naprovado o estudante que obtiver nota final igual ou superior a 6,0 (seis).",
+      "3.2  A nota final da disciplina é a média aritmética de N1 e N2.\n\n3.3  É aprovado o aluno com nota final igual ou superior a 6,0 e frequência\nmínima de 75%, conforme o Regimento Acadêmico (Art. 5º e Art. 7º).\n\n3.4  O aluno pode solicitar revisão de prova em até 3 (três) dias úteis após a\ndivulgação da nota, mediante requerimento à Coordenação.\n\n4. ESTÁGIO E ATIVIDADES COMPLEMENTARES",
+      "1.2  O estágio é ato educativo escolar supervisionado, desenvolvido em ambiente\nde trabalho, visando à preparação para a vida profissional.\n\nSEÇÃO 2 — DO ESTÁGIO OBRIGATÓRIO\n\n2.1  O Estágio Supervisionado obrigatório possui carga horária mínima de 160\n(cento e sessenta) horas e é requisito para a colação de grau.\n\n2.2  Somente pode iniciar o estágio obrigatório o aluno regularmente\nmatriculado a partir do 4º período do curso.",
+      "4. ESTÁGIO E ATIVIDADES COMPLEMENTARES\n\n4.1  O Estágio Supervisionado é obrigatório no 5º período, com carga mínima de\n160 horas, regido pela Política de Estágio.\n\n4.2  O aluno deve cumprir 100 (cem) horas de Atividades Complementares ao longo\ndo curso (palestras, cursos, hackathons, monitorias).\n\n5. SERVIÇOS AO ALUNO\n\n5.1  A Secretaria Acadêmica atende de segunda a sexta, das 8h às 21h, para\nemissão de documentos, declarações e protocolos.",
+      "3.4  É vedado o acúmulo de mais de uma bolsa pelo mesmo aluno; prevalece a de\nmaior percentual de desconto.\n\n4. RENOVAÇÃO E PERDA DE BOLSA\n\n4.1  A bolsa é renovada semestralmente, condicionada à manutenção de frequência\nmínima de 75% e à ausência de reprovações no semestre.\n\n4.2  O aluno perde a bolsa em caso de reprovação em qualquer disciplina,\ntrancamento de matrícula ou sanção disciplinar.\n\n5. CANCELAMENTO E REEMBOLSO"
+    ],
+    "response":"A frequência mínima obrigatória em cada disciplina é de 75% (setenta e cinco por cento) da carga horária. (Fonte: regimento_academico.txt, trecho 2)",
+    "reference":"75% da carga horaria.",
+    "faithfulness":1.0,
+    "answer_relevancy":0.7559606324,
+    "context_recall":1.0,
+    "context_precision":0.9999999999
+  },
+  {
+    "user_input":"Qual a nota minima para ser aprovado em uma disciplina?",
+    "retrieved_contexts":[
+      "TÍTULO III — DA FREQUÊNCIA E AVALIAÇÃO\n\nArt. 5º  É obrigatória a frequência mínima de 75% (setenta e cinco por cento)\nda carga horária de cada disciplina.\n\nArt. 6º  O estudante que não atingir a frequência mínima de 75% será reprovado\npor falta na disciplina, independentemente do seu desempenho nas avaliações.\n\nArt. 7º  A nota final de cada disciplina varia de 0 (zero) a 10 (dez), sendo\naprovado o estudante que obtiver nota final igual ou superior a 6,0 (seis).",
+      "Art. 8º  O estudante com nota final entre 4,0 e 5,9 terá direito a uma prova\nfinal (exame). Após o exame, será aprovado quem obtiver média igual ou\nsuperior a 5,0 entre a nota final e a nota do exame.\n\nArt. 9º  O estudante com nota final inferior a 4,0 será reprovado por nota, sem\ndireito a exame.\n\nTÍTULO IV — DO TRANCAMENTO E CANCELAMENTO",
+      "3.2  A nota final da disciplina é a média aritmética de N1 e N2.\n\n3.3  É aprovado o aluno com nota final igual ou superior a 6,0 e frequência\nmínima de 75%, conforme o Regimento Acadêmico (Art. 5º e Art. 7º).\n\n3.4  O aluno pode solicitar revisão de prova em até 3 (três) dias úteis após a\ndivulgação da nota, mediante requerimento à Coordenação.\n\n4. ESTÁGIO E ATIVIDADES COMPLEMENTARES",
+      "4.3  A aprovação no estágio depende da entrega dos relatórios e da avaliação do\nsupervisor da empresa, com nota mínima 6,0.\n\nSEÇÃO 5 — DO SEGURO E DAS OBRIGAÇÕES\n\n5.1  É obrigatória a contratação de seguro contra acidentes pessoais em favor\ndo estagiário, ônus da parte concedente ou da instituição, conforme o caso.\n\n5.2  O descumprimento das obrigações do Termo de Compromisso pode acarretar o\nencerramento do estágio a qualquer tempo.\n\nSEÇÃO 6 — DA DISPENSA",
+      "Art. 9º  É aprovado o grupo que obtiver nota final igual ou superior a 6,0.\n\nArt. 10  O plágio de código de outros grupos ou a cópia integral de projetos da\ninternet resultará em nota zero para todos os integrantes do grupo.\n\nCAPÍTULO 5 — DO USO DE INTELIGÊNCIA ARTIFICIAL\n\nArt. 11  É permitido e incentivado o uso de ferramentas de IA generativa no\ndesenvolvimento, desde que todo código gerado seja compreendido, revisado e\nadaptado pelo grupo."
+    ],
+    "response":"A nota mínima para ser aprovado em uma disciplina é igual ou superior a 6,0 (seis). (Fonte: regimento_academico.txt, trecho 7)",
+    "reference":"Nota final igual ou superior a 6,0.",
+    "faithfulness":1.0,
+    "answer_relevancy":0.8249618045,
+    "context_recall":1.0,
+    "context_precision":0.7555555555
+  },
+  {
+    "user_input":"Quem tem direito a fazer prova final (exame)?",
+    "retrieved_contexts":[
+      "Art. 8º  O estudante com nota final entre 4,0 e 5,9 terá direito a uma prova\nfinal (exame). Após o exame, será aprovado quem obtiver média igual ou\nsuperior a 5,0 entre a nota final e a nota do exame.\n\nArt. 9º  O estudante com nota final inferior a 4,0 será reprovado por nota, sem\ndireito a exame.\n\nTÍTULO IV — DO TRANCAMENTO E CANCELAMENTO",
+      "3.2  A nota final da disciplina é a média aritmética de N1 e N2.\n\n3.3  É aprovado o aluno com nota final igual ou superior a 6,0 e frequência\nmínima de 75%, conforme o Regimento Acadêmico (Art. 5º e Art. 7º).\n\n3.4  O aluno pode solicitar revisão de prova em até 3 (três) dias úteis após a\ndivulgação da nota, mediante requerimento à Coordenação.\n\n4. ESTÁGIO E ATIVIDADES COMPLEMENTARES",
+      "TÍTULO VII — DAS DISPOSIÇÕES FINAIS\n\nArt. 17  Os casos omissos neste Regimento serão resolvidos pelo Colegiado de\nCurso, ouvida a Coordenação.\n\nArt. 18  Este Regimento entra em vigor na data de sua publicação, revogadas as\ndisposições em contrário.",
+      "4.3  A aprovação no estágio depende da entrega dos relatórios e da avaliação do\nsupervisor da empresa, com nota mínima 6,0.\n\nSEÇÃO 5 — DO SEGURO E DAS OBRIGAÇÕES\n\n5.1  É obrigatória a contratação de seguro contra acidentes pessoais em favor\ndo estagiário, ônus da parte concedente ou da instituição, conforme o caso.\n\n5.2  O descumprimento das obrigações do Termo de Compromisso pode acarretar o\nencerramento do estágio a qualquer tempo.\n\nSEÇÃO 6 — DA DISPENSA",
+      "TÍTULO III — DA FREQUÊNCIA E AVALIAÇÃO\n\nArt. 5º  É obrigatória a frequência mínima de 75% (setenta e cinco por cento)\nda carga horária de cada disciplina.\n\nArt. 6º  O estudante que não atingir a frequência mínima de 75% será reprovado\npor falta na disciplina, independentemente do seu desempenho nas avaliações.\n\nArt. 7º  A nota final de cada disciplina varia de 0 (zero) a 10 (dez), sendo\naprovado o estudante que obtiver nota final igual ou superior a 6,0 (seis)."
+    ],
+    "response":"O estudante com nota final entre 4,0 e 5,9 terá direito a uma prova final (exame). Após o exame, será aprovado quem obtiver média igual ou superior a 5,0 entre a nota final e a nota do exame. (Fonte: regimento_academico.txt, trecho 3)",
+    "reference":"Quem tiver nota final entre 4,0 e 5,9.",
+    "faithfulness":0.6666666667,
+    "answer_relevancy":0.5717879378,
+    "context_recall":1.0,
+    "context_precision":0.9999999999
+  },
+  {
+    "user_input":"Por quanto tempo posso trancar a matricula?",
+    "retrieved_contexts":[
+      "TÍTULO IV — DO TRANCAMENTO E CANCELAMENTO\n\nArt. 10  O trancamento de matrícula suspende temporariamente os estudos sem\nperda do vínculo com a instituição, pelo prazo máximo de 2 (dois) semestres\nconsecutivos.\n\nArt. 11  O trancamento somente é permitido após a conclusão do primeiro\nsemestre do curso e deve ser solicitado até o último dia útil antes do início\ndo período de provas.",
+      "Art. 12  O cancelamento de matrícula é definitivo e rompe o vínculo do\nestudante com a instituição, exigindo novo processo seletivo para reingresso.\n\nTÍTULO V — DO APROVEITAMENTO E DEPENDÊNCIA\n\nArt. 13  O estudante reprovado em até 3 (três) disciplinas poderá cursá-las em\nregime de dependência no semestre seguinte, sem prejuízo das disciplinas\nregulares do período.",
+      "5. CANCELAMENTO E REEMBOLSO\n\n5.1  O aluno que cancelar a matrícula até 7 (sete) dias após o início das aulas\ntem direito a reembolso de 80% do valor pago no semestre.\n\n5.2  Após esse prazo, não há reembolso das parcelas já vencidas, sendo devida a\nparcela do mês em curso.",
+      "TÍTULO II — DA MATRÍCULA\n\nArt. 3º  A matrícula é o ato formal que vincula o estudante a um curso e deve\nser renovada a cada semestre dentro do prazo fixado no Calendário Acadêmico.\n\nArt. 4º  O estudante que não renovar a matrícula no prazo será considerado em\nabandono de curso, salvo justificativa aceita pela Coordenação.\n\nParágrafo único. A reabertura de matrícula após abandono depende de\ndisponibilidade de vaga e de requerimento protocolado na Secretaria.",
+      "SEÇÃO 6 — DA DISPENSA\n\n6.1  O aluno que comprovar exercício de atividade profissional na área de TI,\npor meio de carteira de trabalho ou contrato, por período igual ou superior a\n6 meses, poderá requerer dispensa parcial das horas de estágio obrigatório,\nmediante análise do Colegiado."
+    ],
+    "response":"De acordo com o regimento acadêmico, você pode trancar a matrícula pelo prazo máximo de 2 (dois) semestres consecutivos. (Fonte: regimento_academico.txt, trecho 4)",
+    "reference":"No maximo 2 semestres consecutivos.",
+    "faithfulness":0.5,
+    "answer_relevancy":0.8608584427,
+    "context_recall":1.0,
+    "context_precision":0.9999999999
+  },
+  {
+    "user_input":"Quando o trancamento de matricula e permitido?",
+    "retrieved_contexts":[
+      "TÍTULO IV — DO TRANCAMENTO E CANCELAMENTO\n\nArt. 10  O trancamento de matrícula suspende temporariamente os estudos sem\nperda do vínculo com a instituição, pelo prazo máximo de 2 (dois) semestres\nconsecutivos.\n\nArt. 11  O trancamento somente é permitido após a conclusão do primeiro\nsemestre do curso e deve ser solicitado até o último dia útil antes do início\ndo período de provas.",
+      "Art. 12  O cancelamento de matrícula é definitivo e rompe o vínculo do\nestudante com a instituição, exigindo novo processo seletivo para reingresso.\n\nTÍTULO V — DO APROVEITAMENTO E DEPENDÊNCIA\n\nArt. 13  O estudante reprovado em até 3 (três) disciplinas poderá cursá-las em\nregime de dependência no semestre seguinte, sem prejuízo das disciplinas\nregulares do período.",
+      "TÍTULO II — DA MATRÍCULA\n\nArt. 3º  A matrícula é o ato formal que vincula o estudante a um curso e deve\nser renovada a cada semestre dentro do prazo fixado no Calendário Acadêmico.\n\nArt. 4º  O estudante que não renovar a matrícula no prazo será considerado em\nabandono de curso, salvo justificativa aceita pela Coordenação.\n\nParágrafo único. A reabertura de matrícula após abandono depende de\ndisponibilidade de vaga e de requerimento protocolado na Secretaria.",
+      "5. CANCELAMENTO E REEMBOLSO\n\n5.1  O aluno que cancelar a matrícula até 7 (sete) dias após o início das aulas\ntem direito a reembolso de 80% do valor pago no semestre.\n\n5.2  Após esse prazo, não há reembolso das parcelas já vencidas, sendo devida a\nparcela do mês em curso.",
+      "3.4  É vedado o acúmulo de mais de uma bolsa pelo mesmo aluno; prevalece a de\nmaior percentual de desconto.\n\n4. RENOVAÇÃO E PERDA DE BOLSA\n\n4.1  A bolsa é renovada semestralmente, condicionada à manutenção de frequência\nmínima de 75% e à ausência de reprovações no semestre.\n\n4.2  O aluno perde a bolsa em caso de reprovação em qualquer disciplina,\ntrancamento de matrícula ou sanção disciplinar.\n\n5. CANCELAMENTO E REEMBOLSO"
+    ],
+    "response":"O trancamento de matrícula é permitido após a conclusão do primeiro semestre do curso e deve ser solicitado até o último dia útil antes do início do período de provas. (Fonte: regimento_academico.txt, trecho 4)",
+    "reference":"Somente apos a conclusao do primeiro semestre do curso.",
+    "faithfulness":1.0,
+    "answer_relevancy":0.534272883,
+    "context_recall":1.0,
+    "context_precision":0.9999999999
+  },
+  {
+    "user_input":"Em quantas disciplinas posso ser reprovado e ainda cursar em dependencia?",
+    "retrieved_contexts":[
+      "Art. 12  O cancelamento de matrícula é definitivo e rompe o vínculo do\nestudante com a instituição, exigindo novo processo seletivo para reingresso.\n\nTÍTULO V — DO APROVEITAMENTO E DEPENDÊNCIA\n\nArt. 13  O estudante reprovado em até 3 (três) disciplinas poderá cursá-las em\nregime de dependência no semestre seguinte, sem prejuízo das disciplinas\nregulares do período.",
+      "Art. 14  O estudante reprovado em mais de 3 disciplinas ficará retido no\nperíodo, cursando prioritariamente as disciplinas pendentes.\n\nTÍTULO VI — DO REGIME DISCIPLINAR\n\nArt. 15  Constituem infrações disciplinares a fraude acadêmica, o plágio, a\ncola em avaliações e o uso indevido de recursos da instituição.\n\nArt. 16  As penalidades aplicáveis são: advertência verbal, advertência\nescrita, suspensão e, em casos graves, desligamento, observado o direito à\nampla defesa.",
+      "TÍTULO III — DA FREQUÊNCIA E AVALIAÇÃO\n\nArt. 5º  É obrigatória a frequência mínima de 75% (setenta e cinco por cento)\nda carga horária de cada disciplina.\n\nArt. 6º  O estudante que não atingir a frequência mínima de 75% será reprovado\npor falta na disciplina, independentemente do seu desempenho nas avaliações.\n\nArt. 7º  A nota final de cada disciplina varia de 0 (zero) a 10 (dez), sendo\naprovado o estudante que obtiver nota final igual ou superior a 6,0 (seis).",
+      "TÍTULO IV — DO TRANCAMENTO E CANCELAMENTO\n\nArt. 10  O trancamento de matrícula suspende temporariamente os estudos sem\nperda do vínculo com a instituição, pelo prazo máximo de 2 (dois) semestres\nconsecutivos.\n\nArt. 11  O trancamento somente é permitido após a conclusão do primeiro\nsemestre do curso e deve ser solicitado até o último dia útil antes do início\ndo período de provas.",
+      "Art. 8º  O estudante com nota final entre 4,0 e 5,9 terá direito a uma prova\nfinal (exame). Após o exame, será aprovado quem obtiver média igual ou\nsuperior a 5,0 entre a nota final e a nota do exame.\n\nArt. 9º  O estudante com nota final inferior a 4,0 será reprovado por nota, sem\ndireito a exame.\n\nTÍTULO IV — DO TRANCAMENTO E CANCELAMENTO"
+    ],
+    "response":"Pode ser reprovado em até 3 (três) disciplinas e ainda cursá-las em regime de dependência no semestre seguinte, sem prejuízo das disciplinas regulares do período.\n\n(Fonte: regimento_academico.txt, trecho 5)",
+    "reference":"Em ate 3 disciplinas.",
+    "faithfulness":0.6666666667,
+    "answer_relevancy":0.0,
+    "context_recall":1.0,
+    "context_precision":1.0
+  },
+  {
+    "user_input":"Quais sao as penalidades disciplinares possiveis?",
+    "retrieved_contexts":[
+      "Art. 14  O estudante reprovado em mais de 3 disciplinas ficará retido no\nperíodo, cursando prioritariamente as disciplinas pendentes.\n\nTÍTULO VI — DO REGIME DISCIPLINAR\n\nArt. 15  Constituem infrações disciplinares a fraude acadêmica, o plágio, a\ncola em avaliações e o uso indevido de recursos da instituição.\n\nArt. 16  As penalidades aplicáveis são: advertência verbal, advertência\nescrita, suspensão e, em casos graves, desligamento, observado o direito à\nampla defesa.",
+      "TÍTULO III — DA FREQUÊNCIA E AVALIAÇÃO\n\nArt. 5º  É obrigatória a frequência mínima de 75% (setenta e cinco por cento)\nda carga horária de cada disciplina.\n\nArt. 6º  O estudante que não atingir a frequência mínima de 75% será reprovado\npor falta na disciplina, independentemente do seu desempenho nas avaliações.\n\nArt. 7º  A nota final de cada disciplina varia de 0 (zero) a 10 (dez), sendo\naprovado o estudante que obtiver nota final igual ou superior a 6,0 (seis).",
+      "Art. 12  O cancelamento de matrícula é definitivo e rompe o vínculo do\nestudante com a instituição, exigindo novo processo seletivo para reingresso.\n\nTÍTULO V — DO APROVEITAMENTO E DEPENDÊNCIA\n\nArt. 13  O estudante reprovado em até 3 (três) disciplinas poderá cursá-las em\nregime de dependência no semestre seguinte, sem prejuízo das disciplinas\nregulares do período.",
+      "4.3  A aprovação no estágio depende da entrega dos relatórios e da avaliação do\nsupervisor da empresa, com nota mínima 6,0.\n\nSEÇÃO 5 — DO SEGURO E DAS OBRIGAÇÕES\n\n5.1  É obrigatória a contratação de seguro contra acidentes pessoais em favor\ndo estagiário, ônus da parte concedente ou da instituição, conforme o caso.\n\n5.2  O descumprimento das obrigações do Termo de Compromisso pode acarretar o\nencerramento do estágio a qualquer tempo.\n\nSEÇÃO 6 — DA DISPENSA",
+      "3.4  É vedado o acúmulo de mais de uma bolsa pelo mesmo aluno; prevalece a de\nmaior percentual de desconto.\n\n4. RENOVAÇÃO E PERDA DE BOLSA\n\n4.1  A bolsa é renovada semestralmente, condicionada à manutenção de frequência\nmínima de 75% e à ausência de reprovações no semestre.\n\n4.2  O aluno perde a bolsa em caso de reprovação em qualquer disciplina,\ntrancamento de matrícula ou sanção disciplinar.\n\n5. CANCELAMENTO E REEMBOLSO"
+    ],
+    "response":"As penalidades disciplinares possíveis são: advertência verbal, advertência escrita, suspensão e, em casos graves, desligamento. (Fonte: regimento_academico.txt, trecho 6)",
+    "reference":"Advertencia verbal, advertencia escrita, suspensao e desligamento.",
+    "faithfulness":1.0,
+    "answer_relevancy":0.7442405345,
+    "context_recall":1.0,
+    "context_precision":0.9999999999
+  },
+  {
+    "user_input":"Quantos semestres dura o curso de ADS?",
+    "retrieved_contexts":[
+      "MANUAL DO ALUNO\nCurso: Análise e Desenvolvimento de Sistemas (ADS)\nInstituto de Tecnologia Horizonte (ITH) — 2026.1\nDocumento fictício gerado para fins acadêmicos\n\n1. APRESENTAÇÃO DO CURSO\n\n1.1  O curso de Análise e Desenvolvimento de Sistemas (ADS) é um curso superior\nde tecnologia com duração de 5 (cinco) semestres e carga horária total de 2.000\nhoras, formando o profissional Tecnólogo em ADS.",
+      "2.3  3º Período: Construindo Sistemas Inteligentes (IA), Construção de Sistemas\nSeguros, Banco de Dados II, Desenvolvimento Web.\n\n2.4  4º Período: Desenvolvimento Mobile, APIs e Microsserviços, DevOps,\nGestão de Projetos.\n\n2.5  5º Período: Projeto Integrador Final, Estágio Supervisionado, Tópicos\nAvançados, Empreendedorismo.\n\n3. SISTEMA DE AVALIAÇÃO\n\n3.1  Cada disciplina possui 2 (duas) notas parciais por semestre, denominadas\nN1 e N2, ambas variando de 0 a 10.",
+      "POLÍTICA DE ESTÁGIO SUPERVISIONADO\nInstituto de Tecnologia Horizonte (ITH) — 2026.1\nCurso de Análise e Desenvolvimento de Sistemas\nDocumento fictício gerado para fins acadêmicos\n\nSEÇÃO 1 — DAS DISPOSIÇÕES GERAIS\n\n1.1  Esta Política regulamenta o Estágio Supervisionado obrigatório e o estágio\nnão obrigatório dos estudantes de ADS, em conformidade com a Lei nº 11.788\/2008\n(Lei do Estágio).",
+      "NORMAS DO TRABALHO DE CONCLUSÃO DE CURSO (TCC)\nInstituto de Tecnologia Horizonte (ITH) — 2026.1\nCurso de Análise e Desenvolvimento de Sistemas\nDocumento fictício gerado para fins acadêmicos\n\nCAPÍTULO 1 — NATUREZA E OBJETIVOS\n\nArt. 1º  No curso de ADS, o Trabalho de Conclusão de Curso (TCC) é substituído\npelo Projeto Integrador Final, desenvolvido no 5º período.",
+      "REGIMENTO ACADÊMICO\nInstituto de Tecnologia Horizonte (ITH)\nVersão 2026.1 — Documento fictício gerado para fins acadêmicos\n\nTÍTULO I — DAS DISPOSIÇÕES GERAIS\n\nArt. 1º  Este Regimento disciplina a organização e o funcionamento acadêmico\ndos cursos de graduação do Instituto de Tecnologia Horizonte (ITH).\n\nArt. 2º  O ano letivo divide-se em dois semestres, cada um com no mínimo 100\n(cem) dias letivos, conforme o Calendário Acadêmico aprovado anualmente.\n\nTÍTULO II — DA MATRÍCULA"
+    ],
+    "response":"O curso de Análise e Desenvolvimento de Sistemas (ADS) dura 5 (cinco) semestres. (Fonte: manual_do_aluno_ads.txt, trecho 1)",
+    "reference":"5 semestres.",
+    "faithfulness":1.0,
+    "answer_relevancy":0.8196824995,
+    "context_recall":1.0,
+    "context_precision":1.0
+  },
+  {
+    "user_input":"Qual a carga horaria total do curso de ADS?",
+    "retrieved_contexts":[
+      "MANUAL DO ALUNO\nCurso: Análise e Desenvolvimento de Sistemas (ADS)\nInstituto de Tecnologia Horizonte (ITH) — 2026.1\nDocumento fictício gerado para fins acadêmicos\n\n1. APRESENTAÇÃO DO CURSO\n\n1.1  O curso de Análise e Desenvolvimento de Sistemas (ADS) é um curso superior\nde tecnologia com duração de 5 (cinco) semestres e carga horária total de 2.000\nhoras, formando o profissional Tecnólogo em ADS.",
+      "4. ESTÁGIO E ATIVIDADES COMPLEMENTARES\n\n4.1  O Estágio Supervisionado é obrigatório no 5º período, com carga mínima de\n160 horas, regido pela Política de Estágio.\n\n4.2  O aluno deve cumprir 100 (cem) horas de Atividades Complementares ao longo\ndo curso (palestras, cursos, hackathons, monitorias).\n\n5. SERVIÇOS AO ALUNO\n\n5.1  A Secretaria Acadêmica atende de segunda a sexta, das 8h às 21h, para\nemissão de documentos, declarações e protocolos.",
+      "NORMAS DO TRABALHO DE CONCLUSÃO DE CURSO (TCC)\nInstituto de Tecnologia Horizonte (ITH) — 2026.1\nCurso de Análise e Desenvolvimento de Sistemas\nDocumento fictício gerado para fins acadêmicos\n\nCAPÍTULO 1 — NATUREZA E OBJETIVOS\n\nArt. 1º  No curso de ADS, o Trabalho de Conclusão de Curso (TCC) é substituído\npelo Projeto Integrador Final, desenvolvido no 5º período.",
+      "POLÍTICA DE ESTÁGIO SUPERVISIONADO\nInstituto de Tecnologia Horizonte (ITH) — 2026.1\nCurso de Análise e Desenvolvimento de Sistemas\nDocumento fictício gerado para fins acadêmicos\n\nSEÇÃO 1 — DAS DISPOSIÇÕES GERAIS\n\n1.1  Esta Política regulamenta o Estágio Supervisionado obrigatório e o estágio\nnão obrigatório dos estudantes de ADS, em conformidade com a Lei nº 11.788\/2008\n(Lei do Estágio).",
+      "1.2  O estágio é ato educativo escolar supervisionado, desenvolvido em ambiente\nde trabalho, visando à preparação para a vida profissional.\n\nSEÇÃO 2 — DO ESTÁGIO OBRIGATÓRIO\n\n2.1  O Estágio Supervisionado obrigatório possui carga horária mínima de 160\n(cento e sessenta) horas e é requisito para a colação de grau.\n\n2.2  Somente pode iniciar o estágio obrigatório o aluno regularmente\nmatriculado a partir do 4º período do curso."
+    ],
+    "response":"A carga horária total do curso de Análise e Desenvolvimento de Sistemas (ADS) é de 2.000 horas. (Fonte: manual_do_aluno_ads.txt, trecho 1)",
+    "reference":"2.000 horas.",
+    "faithfulness":0.5,
+    "answer_relevancy":0.8504631088,
+    "context_recall":1.0,
+    "context_precision":0.9999999999
+  },
+  {
+    "user_input":"Como e calculada a nota final de uma disciplina?",
+    "retrieved_contexts":[
+      "3.2  A nota final da disciplina é a média aritmética de N1 e N2.\n\n3.3  É aprovado o aluno com nota final igual ou superior a 6,0 e frequência\nmínima de 75%, conforme o Regimento Acadêmico (Art. 5º e Art. 7º).\n\n3.4  O aluno pode solicitar revisão de prova em até 3 (três) dias úteis após a\ndivulgação da nota, mediante requerimento à Coordenação.\n\n4. ESTÁGIO E ATIVIDADES COMPLEMENTARES",
+      "TÍTULO III — DA FREQUÊNCIA E AVALIAÇÃO\n\nArt. 5º  É obrigatória a frequência mínima de 75% (setenta e cinco por cento)\nda carga horária de cada disciplina.\n\nArt. 6º  O estudante que não atingir a frequência mínima de 75% será reprovado\npor falta na disciplina, independentemente do seu desempenho nas avaliações.\n\nArt. 7º  A nota final de cada disciplina varia de 0 (zero) a 10 (dez), sendo\naprovado o estudante que obtiver nota final igual ou superior a 6,0 (seis).",
+      "Art. 8º  O estudante com nota final entre 4,0 e 5,9 terá direito a uma prova\nfinal (exame). Após o exame, será aprovado quem obtiver média igual ou\nsuperior a 5,0 entre a nota final e a nota do exame.\n\nArt. 9º  O estudante com nota final inferior a 4,0 será reprovado por nota, sem\ndireito a exame.\n\nTÍTULO IV — DO TRANCAMENTO E CANCELAMENTO",
+      "2.3  3º Período: Construindo Sistemas Inteligentes (IA), Construção de Sistemas\nSeguros, Banco de Dados II, Desenvolvimento Web.\n\n2.4  4º Período: Desenvolvimento Mobile, APIs e Microsserviços, DevOps,\nGestão de Projetos.\n\n2.5  5º Período: Projeto Integrador Final, Estágio Supervisionado, Tópicos\nAvançados, Empreendedorismo.\n\n3. SISTEMA DE AVALIAÇÃO\n\n3.1  Cada disciplina possui 2 (duas) notas parciais por semestre, denominadas\nN1 e N2, ambas variando de 0 a 10.",
+      "Art. 7º  O relatório deve ser entregue em formato PDF e o código-fonte\ndisponibilizado em repositório público no GitHub.\n\nCAPÍTULO 4 — DA AVALIAÇÃO\n\nArt. 8º  A nota do Projeto Integrador Final compõe-se de: implementação técnica\n(40%), relatório (30%) e apresentação oral (30%).\n\nArt. 9º  É aprovado o grupo que obtiver nota final igual ou superior a 6,0."
+    ],
+    "response":"A nota final da disciplina é calculada como a média aritmética das notas N1 e N2. O aluno é aprovado se tiver nota final igual ou superior a 6,0 e frequência mínima de 75% (Fonte: manual_do_aluno_ads.txt, trecho 3).",
+    "reference":"Media aritmetica de N1 e N2.",
+    "faithfulness":1.0,
+    "answer_relevancy":0.9387110346,
+    "context_recall":1.0,
+    "context_precision":0.9999999999
+  },
+  {
+    "user_input":"Qual o prazo para solicitar revisao de prova?",
+    "retrieved_contexts":[
+      "3.2  A nota final da disciplina é a média aritmética de N1 e N2.\n\n3.3  É aprovado o aluno com nota final igual ou superior a 6,0 e frequência\nmínima de 75%, conforme o Regimento Acadêmico (Art. 5º e Art. 7º).\n\n3.4  O aluno pode solicitar revisão de prova em até 3 (três) dias úteis após a\ndivulgação da nota, mediante requerimento à Coordenação.\n\n4. ESTÁGIO E ATIVIDADES COMPLEMENTARES",
+      "Art. 8º  O estudante com nota final entre 4,0 e 5,9 terá direito a uma prova\nfinal (exame). Após o exame, será aprovado quem obtiver média igual ou\nsuperior a 5,0 entre a nota final e a nota do exame.\n\nArt. 9º  O estudante com nota final inferior a 4,0 será reprovado por nota, sem\ndireito a exame.\n\nTÍTULO IV — DO TRANCAMENTO E CANCELAMENTO",
+      "TÍTULO IV — DO TRANCAMENTO E CANCELAMENTO\n\nArt. 10  O trancamento de matrícula suspende temporariamente os estudos sem\nperda do vínculo com a instituição, pelo prazo máximo de 2 (dois) semestres\nconsecutivos.\n\nArt. 11  O trancamento somente é permitido após a conclusão do primeiro\nsemestre do curso e deve ser solicitado até o último dia útil antes do início\ndo período de provas.",
+      "4. ESTÁGIO E ATIVIDADES COMPLEMENTARES\n\n4.1  O Estágio Supervisionado é obrigatório no 5º período, com carga mínima de\n160 horas, regido pela Política de Estágio.\n\n4.2  O aluno deve cumprir 100 (cem) horas de Atividades Complementares ao longo\ndo curso (palestras, cursos, hackathons, monitorias).\n\n5. SERVIÇOS AO ALUNO\n\n5.1  A Secretaria Acadêmica atende de segunda a sexta, das 8h às 21h, para\nemissão de documentos, declarações e protocolos.",
+      "TÍTULO III — DA FREQUÊNCIA E AVALIAÇÃO\n\nArt. 5º  É obrigatória a frequência mínima de 75% (setenta e cinco por cento)\nda carga horária de cada disciplina.\n\nArt. 6º  O estudante que não atingir a frequência mínima de 75% será reprovado\npor falta na disciplina, independentemente do seu desempenho nas avaliações.\n\nArt. 7º  A nota final de cada disciplina varia de 0 (zero) a 10 (dez), sendo\naprovado o estudante que obtiver nota final igual ou superior a 6,0 (seis)."
+    ],
+    "response":"O aluno pode solicitar revisão de prova em até 3 (três) dias úteis após a divulgação da nota, mediante requerimento à Coordenação.\n\n(Fonte: manual_do_aluno_ads.txt, trecho 3)",
+    "reference":"Ate 3 dias uteis apos a divulgacao da nota.",
+    "faithfulness":0.6666666667,
+    "answer_relevancy":0.6820193231,
+    "context_recall":1.0,
+    "context_precision":0.9999999999
+  },
+  {
+    "user_input":"Quantas horas de atividades complementares preciso cumprir?",
+    "retrieved_contexts":[
+      "4. ESTÁGIO E ATIVIDADES COMPLEMENTARES\n\n4.1  O Estágio Supervisionado é obrigatório no 5º período, com carga mínima de\n160 horas, regido pela Política de Estágio.\n\n4.2  O aluno deve cumprir 100 (cem) horas de Atividades Complementares ao longo\ndo curso (palestras, cursos, hackathons, monitorias).\n\n5. SERVIÇOS AO ALUNO\n\n5.1  A Secretaria Acadêmica atende de segunda a sexta, das 8h às 21h, para\nemissão de documentos, declarações e protocolos.",
+      "3.2  As horas de estágio não obrigatório podem ser aproveitadas como Atividades\nComplementares, até o limite de 40 (quarenta) horas.\n\nSEÇÃO 4 — DA SUPERVISÃO E ACOMPANHAMENTO\n\n4.1  Cada estagiário terá um professor orientador na instituição e um\nsupervisor na empresa concedente.\n\n4.2  O estudante deve entregar Relatórios de Estágio parciais a cada 80 horas\ncumpridas e um Relatório Final ao término do estágio.",
+      "1.2  O estágio é ato educativo escolar supervisionado, desenvolvido em ambiente\nde trabalho, visando à preparação para a vida profissional.\n\nSEÇÃO 2 — DO ESTÁGIO OBRIGATÓRIO\n\n2.1  O Estágio Supervisionado obrigatório possui carga horária mínima de 160\n(cento e sessenta) horas e é requisito para a colação de grau.\n\n2.2  Somente pode iniciar o estágio obrigatório o aluno regularmente\nmatriculado a partir do 4º período do curso.",
+      "2.3  A jornada de estágio não pode ultrapassar 6 (seis) horas diárias e 30\n(trinta) horas semanais.\n\n2.4  O estágio exige a celebração de Termo de Compromisso entre o estudante, a\ninstituição de ensino e a empresa concedente.\n\nSEÇÃO 3 — DO ESTÁGIO NÃO OBRIGATÓRIO\n\n3.1  O estágio não obrigatório é opcional e, quando remunerado, exige o\npagamento de bolsa-auxílio e auxílio-transporte pela concedente.",
+      "TÍTULO III — DA FREQUÊNCIA E AVALIAÇÃO\n\nArt. 5º  É obrigatória a frequência mínima de 75% (setenta e cinco por cento)\nda carga horária de cada disciplina.\n\nArt. 6º  O estudante que não atingir a frequência mínima de 75% será reprovado\npor falta na disciplina, independentemente do seu desempenho nas avaliações.\n\nArt. 7º  A nota final de cada disciplina varia de 0 (zero) a 10 (dez), sendo\naprovado o estudante que obtiver nota final igual ou superior a 6,0 (seis)."
+    ],
+    "response":"De acordo com o documento, você deve cumprir 100 horas de Atividades Complementares ao longo do curso. (Fonte: manual_do_aluno_ads.txt, trecho 4)",
+    "reference":"100 horas.",
+    "faithfulness":0.5,
+    "answer_relevancy":0.8215165609,
+    "context_recall":1.0,
+    "context_precision":0.9999999999
+  },
+  {
+    "user_input":"Quantos livros posso pegar na biblioteca e por quantos dias?",
+    "retrieved_contexts":[
+      "5.2  O Portal do Aluno disponibiliza notas, faltas, boletos e materiais. O\nacesso é feito com matrícula e senha individual.\n\n5.3  A Biblioteca permite empréstimo de até 3 livros por 14 dias, renováveis\ncaso não haja reserva.\n\n6. CANAIS DE ATENDIMENTO\n\n6.1  Coordenação de ADS: coordenacao.ads@ith.edu.br (fictício).\n\n6.2  Suporte ao Portal do Aluno: suporte@ith.edu.br (fictício).\n\n6.3  Ouvidoria: para reclamações e sugestões, através do Portal do Aluno.",
+      "4. ESTÁGIO E ATIVIDADES COMPLEMENTARES\n\n4.1  O Estágio Supervisionado é obrigatório no 5º período, com carga mínima de\n160 horas, regido pela Política de Estágio.\n\n4.2  O aluno deve cumprir 100 (cem) horas de Atividades Complementares ao longo\ndo curso (palestras, cursos, hackathons, monitorias).\n\n5. SERVIÇOS AO ALUNO\n\n5.1  A Secretaria Acadêmica atende de segunda a sexta, das 8h às 21h, para\nemissão de documentos, declarações e protocolos.",
+      "3.2  As horas de estágio não obrigatório podem ser aproveitadas como Atividades\nComplementares, até o limite de 40 (quarenta) horas.\n\nSEÇÃO 4 — DA SUPERVISÃO E ACOMPANHAMENTO\n\n4.1  Cada estagiário terá um professor orientador na instituição e um\nsupervisor na empresa concedente.\n\n4.2  O estudante deve entregar Relatórios de Estágio parciais a cada 80 horas\ncumpridas e um Relatório Final ao término do estágio.",
+      "1.3  O atraso superior a 90 (noventa) dias pode acarretar a suspensão do acesso\nao Portal do Aluno e a retenção de documentos acadêmicos, conforme legislação.\n\n2. DESCONTOS E PONTUALIDADE\n\n2.1  O pagamento da mensalidade até o dia 5 (cinco) garante desconto de\npontualidade de 5% (cinco por cento).\n\n2.2  Os descontos de pontualidade não são cumulativos com bolsas integrais.\n\n3. BOLSAS DE ESTUDO",
+      "Art. 5º  A entrega final do código-fonte e do relatório técnico ocorre na 8ª\nsemana letiva, seguida de apresentação oral na semana seguinte.\n\nCAPÍTULO 3 — DO RELATÓRIO TÉCNICO\n\nArt. 6º  O relatório técnico deve ter no mínimo 15 (quinze) páginas e conter,\nobrigatoriamente: introdução, arquitetura do sistema, decisões técnicas,\nimplementação, avaliação de resultados, dificuldades e conclusão."
+    ],
+    "response":"Você pode emprestar até 3 livros da biblioteca por 14 dias, podendo renovar o empréstimo caso não haja reserva. (Fonte: manual_do_aluno_ads.txt, trecho 5)",
+    "reference":"Ate 3 livros por 14 dias.",
+    "faithfulness":1.0,
+    "answer_relevancy":0.7384779555,
+    "context_recall":1.0,
+    "context_precision":0.9999999999
+  },
+  {
+    "user_input":"Qual a carga horaria minima do estagio obrigatorio?",
+    "retrieved_contexts":[
+      "1.2  O estágio é ato educativo escolar supervisionado, desenvolvido em ambiente\nde trabalho, visando à preparação para a vida profissional.\n\nSEÇÃO 2 — DO ESTÁGIO OBRIGATÓRIO\n\n2.1  O Estágio Supervisionado obrigatório possui carga horária mínima de 160\n(cento e sessenta) horas e é requisito para a colação de grau.\n\n2.2  Somente pode iniciar o estágio obrigatório o aluno regularmente\nmatriculado a partir do 4º período do curso.",
+      "2.3  A jornada de estágio não pode ultrapassar 6 (seis) horas diárias e 30\n(trinta) horas semanais.\n\n2.4  O estágio exige a celebração de Termo de Compromisso entre o estudante, a\ninstituição de ensino e a empresa concedente.\n\nSEÇÃO 3 — DO ESTÁGIO NÃO OBRIGATÓRIO\n\n3.1  O estágio não obrigatório é opcional e, quando remunerado, exige o\npagamento de bolsa-auxílio e auxílio-transporte pela concedente.",
+      "4. ESTÁGIO E ATIVIDADES COMPLEMENTARES\n\n4.1  O Estágio Supervisionado é obrigatório no 5º período, com carga mínima de\n160 horas, regido pela Política de Estágio.\n\n4.2  O aluno deve cumprir 100 (cem) horas de Atividades Complementares ao longo\ndo curso (palestras, cursos, hackathons, monitorias).\n\n5. SERVIÇOS AO ALUNO\n\n5.1  A Secretaria Acadêmica atende de segunda a sexta, das 8h às 21h, para\nemissão de documentos, declarações e protocolos.",
+      "3.2  As horas de estágio não obrigatório podem ser aproveitadas como Atividades\nComplementares, até o limite de 40 (quarenta) horas.\n\nSEÇÃO 4 — DA SUPERVISÃO E ACOMPANHAMENTO\n\n4.1  Cada estagiário terá um professor orientador na instituição e um\nsupervisor na empresa concedente.\n\n4.2  O estudante deve entregar Relatórios de Estágio parciais a cada 80 horas\ncumpridas e um Relatório Final ao término do estágio.",
+      "4.3  A aprovação no estágio depende da entrega dos relatórios e da avaliação do\nsupervisor da empresa, com nota mínima 6,0.\n\nSEÇÃO 5 — DO SEGURO E DAS OBRIGAÇÕES\n\n5.1  É obrigatória a contratação de seguro contra acidentes pessoais em favor\ndo estagiário, ônus da parte concedente ou da instituição, conforme o caso.\n\n5.2  O descumprimento das obrigações do Termo de Compromisso pode acarretar o\nencerramento do estágio a qualquer tempo.\n\nSEÇÃO 6 — DA DISPENSA"
+    ],
+    "response":"A carga horária mínima do estágio obrigatório é de 160 (cento e sessenta) horas. (Fonte: politica_estagio.txt, trecho 2)",
+    "reference":"160 horas.",
+    "faithfulness":1.0,
+    "answer_relevancy":0.7459338857,
+    "context_recall":1.0,
+    "context_precision":0.8333333333
+  },
+  {
+    "user_input":"A partir de que periodo posso iniciar o estagio obrigatorio?",
+    "retrieved_contexts":[
+      "1.2  O estágio é ato educativo escolar supervisionado, desenvolvido em ambiente\nde trabalho, visando à preparação para a vida profissional.\n\nSEÇÃO 2 — DO ESTÁGIO OBRIGATÓRIO\n\n2.1  O Estágio Supervisionado obrigatório possui carga horária mínima de 160\n(cento e sessenta) horas e é requisito para a colação de grau.\n\n2.2  Somente pode iniciar o estágio obrigatório o aluno regularmente\nmatriculado a partir do 4º período do curso.",
+      "4.3  A aprovação no estágio depende da entrega dos relatórios e da avaliação do\nsupervisor da empresa, com nota mínima 6,0.\n\nSEÇÃO 5 — DO SEGURO E DAS OBRIGAÇÕES\n\n5.1  É obrigatória a contratação de seguro contra acidentes pessoais em favor\ndo estagiário, ônus da parte concedente ou da instituição, conforme o caso.\n\n5.2  O descumprimento das obrigações do Termo de Compromisso pode acarretar o\nencerramento do estágio a qualquer tempo.\n\nSEÇÃO 6 — DA DISPENSA",
+      "4. ESTÁGIO E ATIVIDADES COMPLEMENTARES\n\n4.1  O Estágio Supervisionado é obrigatório no 5º período, com carga mínima de\n160 horas, regido pela Política de Estágio.\n\n4.2  O aluno deve cumprir 100 (cem) horas de Atividades Complementares ao longo\ndo curso (palestras, cursos, hackathons, monitorias).\n\n5. SERVIÇOS AO ALUNO\n\n5.1  A Secretaria Acadêmica atende de segunda a sexta, das 8h às 21h, para\nemissão de documentos, declarações e protocolos.",
+      "2.3  A jornada de estágio não pode ultrapassar 6 (seis) horas diárias e 30\n(trinta) horas semanais.\n\n2.4  O estágio exige a celebração de Termo de Compromisso entre o estudante, a\ninstituição de ensino e a empresa concedente.\n\nSEÇÃO 3 — DO ESTÁGIO NÃO OBRIGATÓRIO\n\n3.1  O estágio não obrigatório é opcional e, quando remunerado, exige o\npagamento de bolsa-auxílio e auxílio-transporte pela concedente.",
+      "SEÇÃO 6 — DA DISPENSA\n\n6.1  O aluno que comprovar exercício de atividade profissional na área de TI,\npor meio de carteira de trabalho ou contrato, por período igual ou superior a\n6 meses, poderá requerer dispensa parcial das horas de estágio obrigatório,\nmediante análise do Colegiado."
+    ],
+    "response":"A partir do 4º período do curso você pode iniciar o estágio obrigatório. (Fonte: politica_estagio.txt, trecho 2.2)",
+    "reference":"A partir do 4o periodo.",
+    "faithfulness":0.0,
+    "answer_relevancy":0.7815304836,
+    "context_recall":1.0,
+    "context_precision":0.8333333333
+  },
+  {
+    "user_input":"Qual a jornada maxima permitida no estagio?",
+    "retrieved_contexts":[
+      "2.3  A jornada de estágio não pode ultrapassar 6 (seis) horas diárias e 30\n(trinta) horas semanais.\n\n2.4  O estágio exige a celebração de Termo de Compromisso entre o estudante, a\ninstituição de ensino e a empresa concedente.\n\nSEÇÃO 3 — DO ESTÁGIO NÃO OBRIGATÓRIO\n\n3.1  O estágio não obrigatório é opcional e, quando remunerado, exige o\npagamento de bolsa-auxílio e auxílio-transporte pela concedente.",
+      "1.2  O estágio é ato educativo escolar supervisionado, desenvolvido em ambiente\nde trabalho, visando à preparação para a vida profissional.\n\nSEÇÃO 2 — DO ESTÁGIO OBRIGATÓRIO\n\n2.1  O Estágio Supervisionado obrigatório possui carga horária mínima de 160\n(cento e sessenta) horas e é requisito para a colação de grau.\n\n2.2  Somente pode iniciar o estágio obrigatório o aluno regularmente\nmatriculado a partir do 4º período do curso.",
+      "4. ESTÁGIO E ATIVIDADES COMPLEMENTARES\n\n4.1  O Estágio Supervisionado é obrigatório no 5º período, com carga mínima de\n160 horas, regido pela Política de Estágio.\n\n4.2  O aluno deve cumprir 100 (cem) horas de Atividades Complementares ao longo\ndo curso (palestras, cursos, hackathons, monitorias).\n\n5. SERVIÇOS AO ALUNO\n\n5.1  A Secretaria Acadêmica atende de segunda a sexta, das 8h às 21h, para\nemissão de documentos, declarações e protocolos.",
+      "3.2  As horas de estágio não obrigatório podem ser aproveitadas como Atividades\nComplementares, até o limite de 40 (quarenta) horas.\n\nSEÇÃO 4 — DA SUPERVISÃO E ACOMPANHAMENTO\n\n4.1  Cada estagiário terá um professor orientador na instituição e um\nsupervisor na empresa concedente.\n\n4.2  O estudante deve entregar Relatórios de Estágio parciais a cada 80 horas\ncumpridas e um Relatório Final ao término do estágio.",
+      "SEÇÃO 6 — DA DISPENSA\n\n6.1  O aluno que comprovar exercício de atividade profissional na área de TI,\npor meio de carteira de trabalho ou contrato, por período igual ou superior a\n6 meses, poderá requerer dispensa parcial das horas de estágio obrigatório,\nmediante análise do Colegiado."
+    ],
+    "response":"A jornada máxima permitida no estágio não pode ultrapassar 6 (seis) horas diárias e 30 (trinta) horas semanais. (Fonte: politica_estagio.txt, trecho 2)",
+    "reference":"6 horas diarias e 30 horas semanais.",
+    "faithfulness":0.6666666667,
+    "answer_relevancy":0.6783618825,
+    "context_recall":1.0,
+    "context_precision":0.9999999999
+  },
+  {
+    "user_input":"Quando posso pedir dispensa parcial do estagio obrigatorio?",
+    "retrieved_contexts":[
+      "SEÇÃO 6 — DA DISPENSA\n\n6.1  O aluno que comprovar exercício de atividade profissional na área de TI,\npor meio de carteira de trabalho ou contrato, por período igual ou superior a\n6 meses, poderá requerer dispensa parcial das horas de estágio obrigatório,\nmediante análise do Colegiado.",
+      "4.3  A aprovação no estágio depende da entrega dos relatórios e da avaliação do\nsupervisor da empresa, com nota mínima 6,0.\n\nSEÇÃO 5 — DO SEGURO E DAS OBRIGAÇÕES\n\n5.1  É obrigatória a contratação de seguro contra acidentes pessoais em favor\ndo estagiário, ônus da parte concedente ou da instituição, conforme o caso.\n\n5.2  O descumprimento das obrigações do Termo de Compromisso pode acarretar o\nencerramento do estágio a qualquer tempo.\n\nSEÇÃO 6 — DA DISPENSA",
+      "2.3  A jornada de estágio não pode ultrapassar 6 (seis) horas diárias e 30\n(trinta) horas semanais.\n\n2.4  O estágio exige a celebração de Termo de Compromisso entre o estudante, a\ninstituição de ensino e a empresa concedente.\n\nSEÇÃO 3 — DO ESTÁGIO NÃO OBRIGATÓRIO\n\n3.1  O estágio não obrigatório é opcional e, quando remunerado, exige o\npagamento de bolsa-auxílio e auxílio-transporte pela concedente.",
+      "1.2  O estágio é ato educativo escolar supervisionado, desenvolvido em ambiente\nde trabalho, visando à preparação para a vida profissional.\n\nSEÇÃO 2 — DO ESTÁGIO OBRIGATÓRIO\n\n2.1  O Estágio Supervisionado obrigatório possui carga horária mínima de 160\n(cento e sessenta) horas e é requisito para a colação de grau.\n\n2.2  Somente pode iniciar o estágio obrigatório o aluno regularmente\nmatriculado a partir do 4º período do curso.",
+      "4. ESTÁGIO E ATIVIDADES COMPLEMENTARES\n\n4.1  O Estágio Supervisionado é obrigatório no 5º período, com carga mínima de\n160 horas, regido pela Política de Estágio.\n\n4.2  O aluno deve cumprir 100 (cem) horas de Atividades Complementares ao longo\ndo curso (palestras, cursos, hackathons, monitorias).\n\n5. SERVIÇOS AO ALUNO\n\n5.1  A Secretaria Acadêmica atende de segunda a sexta, das 8h às 21h, para\nemissão de documentos, declarações e protocolos."
+    ],
+    "response":"De acordo com o documento, você pode pedir dispensa parcial do estágio obrigatório se comprovar exercício de atividade profissional na área de TI por meio de carteira de trabalho ou contrato, por período igual ou superior a 6 meses. Neste caso, o pedido deve ser analisado pelo Colegiado.\n\nFonte: politica_estagio.txt, trecho 5",
+    "reference":"Comprovando atividade profissional na area de TI por 6 meses ou mais.",
+    "faithfulness":0.6666666667,
+    "answer_relevancy":0.8147358587,
+    "context_recall":1.0,
+    "context_precision":0.9999999999
+  },
+  {
+    "user_input":"Quantos integrantes deve ter o grupo do projeto final?",
+    "retrieved_contexts":[
+      "Art. 2º  O Projeto Integrador Final consiste no desenvolvimento de um sistema\nde software funcional acompanhado de relatório técnico e apresentação oral.\n\nCAPÍTULO 2 — DOS GRUPOS E PRAZOS\n\nArt. 3º  O projeto deve ser desenvolvido em grupos de 3 (três) a 5 (cinco)\nintegrantes.\n\nArt. 4º  A composição dos grupos deve ser definida e comunicada à coordenação\naté a segunda semana do semestre.",
+      "Art. 7º  O relatório deve ser entregue em formato PDF e o código-fonte\ndisponibilizado em repositório público no GitHub.\n\nCAPÍTULO 4 — DA AVALIAÇÃO\n\nArt. 8º  A nota do Projeto Integrador Final compõe-se de: implementação técnica\n(40%), relatório (30%) e apresentação oral (30%).\n\nArt. 9º  É aprovado o grupo que obtiver nota final igual ou superior a 6,0.",
+      "Art. 9º  É aprovado o grupo que obtiver nota final igual ou superior a 6,0.\n\nArt. 10  O plágio de código de outros grupos ou a cópia integral de projetos da\ninternet resultará em nota zero para todos os integrantes do grupo.\n\nCAPÍTULO 5 — DO USO DE INTELIGÊNCIA ARTIFICIAL\n\nArt. 11  É permitido e incentivado o uso de ferramentas de IA generativa no\ndesenvolvimento, desde que todo código gerado seja compreendido, revisado e\nadaptado pelo grupo.",
+      "Art. 12  O grupo deve ser capaz de explicar qualquer trecho do código durante a\napresentação e deve declarar no relatório quais ferramentas de IA foram usadas.\n\nCAPÍTULO 6 — DA APRESENTAÇÃO\n\nArt. 13  A apresentação oral terá duração de 15 a 20 minutos, incluindo\ndemonstração ao vivo do sistema em funcionamento.\n\nArt. 14  Todos os integrantes do grupo devem participar da apresentação, salvo\njustificativa formal aceita pela coordenação.",
+      "Art. 5º  A entrega final do código-fonte e do relatório técnico ocorre na 8ª\nsemana letiva, seguida de apresentação oral na semana seguinte.\n\nCAPÍTULO 3 — DO RELATÓRIO TÉCNICO\n\nArt. 6º  O relatório técnico deve ter no mínimo 15 (quinze) páginas e conter,\nobrigatoriamente: introdução, arquitetura do sistema, decisões técnicas,\nimplementação, avaliação de resultados, dificuldades e conclusão."
+    ],
+    "response":"O grupo do Projeto Integrador Final deve ser composto de 3 a 5 integrantes. (Fonte: normas_tcc.txt, trecho 1)",
+    "reference":"De 3 a 5 integrantes.",
+    "faithfulness":0.5,
+    "answer_relevancy":0.8167368153,
+    "context_recall":1.0,
+    "context_precision":0.9999999999
+  },
+  {
+    "user_input":"Qual o tamanho minimo do relatorio tecnico?",
+    "retrieved_contexts":[
+      "Art. 5º  A entrega final do código-fonte e do relatório técnico ocorre na 8ª\nsemana letiva, seguida de apresentação oral na semana seguinte.\n\nCAPÍTULO 3 — DO RELATÓRIO TÉCNICO\n\nArt. 6º  O relatório técnico deve ter no mínimo 15 (quinze) páginas e conter,\nobrigatoriamente: introdução, arquitetura do sistema, decisões técnicas,\nimplementação, avaliação de resultados, dificuldades e conclusão.",
+      "Art. 12  O grupo deve ser capaz de explicar qualquer trecho do código durante a\napresentação e deve declarar no relatório quais ferramentas de IA foram usadas.\n\nCAPÍTULO 6 — DA APRESENTAÇÃO\n\nArt. 13  A apresentação oral terá duração de 15 a 20 minutos, incluindo\ndemonstração ao vivo do sistema em funcionamento.\n\nArt. 14  Todos os integrantes do grupo devem participar da apresentação, salvo\njustificativa formal aceita pela coordenação.",
+      "Art. 7º  O relatório deve ser entregue em formato PDF e o código-fonte\ndisponibilizado em repositório público no GitHub.\n\nCAPÍTULO 4 — DA AVALIAÇÃO\n\nArt. 8º  A nota do Projeto Integrador Final compõe-se de: implementação técnica\n(40%), relatório (30%) e apresentação oral (30%).\n\nArt. 9º  É aprovado o grupo que obtiver nota final igual ou superior a 6,0.",
+      "3.2  As horas de estágio não obrigatório podem ser aproveitadas como Atividades\nComplementares, até o limite de 40 (quarenta) horas.\n\nSEÇÃO 4 — DA SUPERVISÃO E ACOMPANHAMENTO\n\n4.1  Cada estagiário terá um professor orientador na instituição e um\nsupervisor na empresa concedente.\n\n4.2  O estudante deve entregar Relatórios de Estágio parciais a cada 80 horas\ncumpridas e um Relatório Final ao término do estágio.",
+      "TÍTULO III — DA FREQUÊNCIA E AVALIAÇÃO\n\nArt. 5º  É obrigatória a frequência mínima de 75% (setenta e cinco por cento)\nda carga horária de cada disciplina.\n\nArt. 6º  O estudante que não atingir a frequência mínima de 75% será reprovado\npor falta na disciplina, independentemente do seu desempenho nas avaliações.\n\nArt. 7º  A nota final de cada disciplina varia de 0 (zero) a 10 (dez), sendo\naprovado o estudante que obtiver nota final igual ou superior a 6,0 (seis)."
+    ],
+    "response":"O relatório técnico deve ter no mínimo 15 (quinze) páginas e conter obrigatoriamente introdução, arquitetura do sistema, decisões técnicas, implementação, avaliação de resultados, dificuldades e conclusão. (Fonte: normas_tcc.txt, trecho 6)",
+    "reference":"No minimo 15 paginas.",
+    "faithfulness":1.0,
+    "answer_relevancy":0.709403216,
+    "context_recall":1.0,
+    "context_precision":0.9999999999
+  },
+  {
+    "user_input":"E permitido usar IA generativa no projeto final?",
+    "retrieved_contexts":[
+      "Art. 9º  É aprovado o grupo que obtiver nota final igual ou superior a 6,0.\n\nArt. 10  O plágio de código de outros grupos ou a cópia integral de projetos da\ninternet resultará em nota zero para todos os integrantes do grupo.\n\nCAPÍTULO 5 — DO USO DE INTELIGÊNCIA ARTIFICIAL\n\nArt. 11  É permitido e incentivado o uso de ferramentas de IA generativa no\ndesenvolvimento, desde que todo código gerado seja compreendido, revisado e\nadaptado pelo grupo.",
+      "Art. 2º  O Projeto Integrador Final consiste no desenvolvimento de um sistema\nde software funcional acompanhado de relatório técnico e apresentação oral.\n\nCAPÍTULO 2 — DOS GRUPOS E PRAZOS\n\nArt. 3º  O projeto deve ser desenvolvido em grupos de 3 (três) a 5 (cinco)\nintegrantes.\n\nArt. 4º  A composição dos grupos deve ser definida e comunicada à coordenação\naté a segunda semana do semestre.",
+      "Art. 7º  O relatório deve ser entregue em formato PDF e o código-fonte\ndisponibilizado em repositório público no GitHub.\n\nCAPÍTULO 4 — DA AVALIAÇÃO\n\nArt. 8º  A nota do Projeto Integrador Final compõe-se de: implementação técnica\n(40%), relatório (30%) e apresentação oral (30%).\n\nArt. 9º  É aprovado o grupo que obtiver nota final igual ou superior a 6,0.",
+      "NORMAS DO TRABALHO DE CONCLUSÃO DE CURSO (TCC)\nInstituto de Tecnologia Horizonte (ITH) — 2026.1\nCurso de Análise e Desenvolvimento de Sistemas\nDocumento fictício gerado para fins acadêmicos\n\nCAPÍTULO 1 — NATUREZA E OBJETIVOS\n\nArt. 1º  No curso de ADS, o Trabalho de Conclusão de Curso (TCC) é substituído\npelo Projeto Integrador Final, desenvolvido no 5º período.",
+      "Art. 12  O grupo deve ser capaz de explicar qualquer trecho do código durante a\napresentação e deve declarar no relatório quais ferramentas de IA foram usadas.\n\nCAPÍTULO 6 — DA APRESENTAÇÃO\n\nArt. 13  A apresentação oral terá duração de 15 a 20 minutos, incluindo\ndemonstração ao vivo do sistema em funcionamento.\n\nArt. 14  Todos os integrantes do grupo devem participar da apresentação, salvo\njustificativa formal aceita pela coordenação."
+    ],
+    "response":"Sim, está permitido e até incentivado o uso de ferramentas de inteligência artificial generativa no desenvolvimento do Projeto Integrador Final, desde que todo código gerado seja compreendido, revisado e adaptado pelo grupo. (Fonte: normas_tcc.txt, trecho 4)",
+    "reference":"Sim, e permitido e incentivado, desde que o codigo seja revisado e compreendido.",
+    "faithfulness":0.75,
+    "answer_relevancy":0.8354756394,
+    "context_recall":1.0,
+    "context_precision":0.9999999999
+  },
+  {
+    "user_input":"O que acontece em caso de plagio de codigo?",
+    "retrieved_contexts":[
+      "Art. 9º  É aprovado o grupo que obtiver nota final igual ou superior a 6,0.\n\nArt. 10  O plágio de código de outros grupos ou a cópia integral de projetos da\ninternet resultará em nota zero para todos os integrantes do grupo.\n\nCAPÍTULO 5 — DO USO DE INTELIGÊNCIA ARTIFICIAL\n\nArt. 11  É permitido e incentivado o uso de ferramentas de IA generativa no\ndesenvolvimento, desde que todo código gerado seja compreendido, revisado e\nadaptado pelo grupo.",
+      "Art. 14  O estudante reprovado em mais de 3 disciplinas ficará retido no\nperíodo, cursando prioritariamente as disciplinas pendentes.\n\nTÍTULO VI — DO REGIME DISCIPLINAR\n\nArt. 15  Constituem infrações disciplinares a fraude acadêmica, o plágio, a\ncola em avaliações e o uso indevido de recursos da instituição.\n\nArt. 16  As penalidades aplicáveis são: advertência verbal, advertência\nescrita, suspensão e, em casos graves, desligamento, observado o direito à\nampla defesa.",
+      "TÍTULO VII — DAS DISPOSIÇÕES FINAIS\n\nArt. 17  Os casos omissos neste Regimento serão resolvidos pelo Colegiado de\nCurso, ouvida a Coordenação.\n\nArt. 18  Este Regimento entra em vigor na data de sua publicação, revogadas as\ndisposições em contrário.",
+      "Art. 5º  A entrega final do código-fonte e do relatório técnico ocorre na 8ª\nsemana letiva, seguida de apresentação oral na semana seguinte.\n\nCAPÍTULO 3 — DO RELATÓRIO TÉCNICO\n\nArt. 6º  O relatório técnico deve ter no mínimo 15 (quinze) páginas e conter,\nobrigatoriamente: introdução, arquitetura do sistema, decisões técnicas,\nimplementação, avaliação de resultados, dificuldades e conclusão.",
+      "Art. 7º  O relatório deve ser entregue em formato PDF e o código-fonte\ndisponibilizado em repositório público no GitHub.\n\nCAPÍTULO 4 — DA AVALIAÇÃO\n\nArt. 8º  A nota do Projeto Integrador Final compõe-se de: implementação técnica\n(40%), relatório (30%) e apresentação oral (30%).\n\nArt. 9º  É aprovado o grupo que obtiver nota final igual ou superior a 6,0."
+    ],
+    "response":"O plágio de código de outros grupos ou a cópia integral de projetos da internet resultará em nota zero para todos os integrantes do grupo. (Fonte: normas_tcc.txt, trecho 10)",
+    "reference":"Nota zero para todos os integrantes do grupo.",
+    "faithfulness":1.0,
+    "answer_relevancy":0.7061631181,
+    "context_recall":1.0,
+    "context_precision":0.9999999999
+  },
+  {
+    "user_input":"Qual o desconto de pontualidade na mensalidade?",
+    "retrieved_contexts":[
+      "1.3  O atraso superior a 90 (noventa) dias pode acarretar a suspensão do acesso\nao Portal do Aluno e a retenção de documentos acadêmicos, conforme legislação.\n\n2. DESCONTOS E PONTUALIDADE\n\n2.1  O pagamento da mensalidade até o dia 5 (cinco) garante desconto de\npontualidade de 5% (cinco por cento).\n\n2.2  Os descontos de pontualidade não são cumulativos com bolsas integrais.\n\n3. BOLSAS DE ESTUDO",
+      "REGRAS FINANCEIRAS E DE BOLSAS\nInstituto de Tecnologia Horizonte (ITH) — 2026.1\nDocumento fictício gerado para fins acadêmicos\n\n1. MENSALIDADES E PAGAMENTOS\n\n1.1  A mensalidade vence todo dia 10 (dez) de cada mês. O pagamento pode ser\nfeito por boleto, PIX ou cartão de crédito através do Portal do Aluno.\n\n1.2  O pagamento após o vencimento incide multa de 2% (dois por cento) mais\njuros de 1% (um por cento) ao mês sobre o valor da parcela.",
+      "3. BOLSAS DE ESTUDO\n\n3.1  Bolsa de Mérito Acadêmico: concedida ao aluno com média geral igual ou\nsuperior a 9,0 no semestre anterior, no valor de 30% de desconto na\nmensalidade.\n\n3.2  Bolsa Monitoria: o aluno monitor recebe 20% de desconto na mensalidade,\nmediante seleção e cumprimento de 12 horas semanais de monitoria.\n\n3.3  Bolsa Socioeconômica: concedida mediante análise de renda familiar per\ncapita, podendo variar de 25% a 100% de desconto, com renovação semestral.",
+      "5. CANCELAMENTO E REEMBOLSO\n\n5.1  O aluno que cancelar a matrícula até 7 (sete) dias após o início das aulas\ntem direito a reembolso de 80% do valor pago no semestre.\n\n5.2  Após esse prazo, não há reembolso das parcelas já vencidas, sendo devida a\nparcela do mês em curso.",
+      "3.4  É vedado o acúmulo de mais de uma bolsa pelo mesmo aluno; prevalece a de\nmaior percentual de desconto.\n\n4. RENOVAÇÃO E PERDA DE BOLSA\n\n4.1  A bolsa é renovada semestralmente, condicionada à manutenção de frequência\nmínima de 75% e à ausência de reprovações no semestre.\n\n4.2  O aluno perde a bolsa em caso de reprovação em qualquer disciplina,\ntrancamento de matrícula ou sanção disciplinar.\n\n5. CANCELAMENTO E REEMBOLSO"
+    ],
+    "response":"O pagamento da mensalidade até o dia 5 (cinco) garante um desconto de pontualidade de 5% (cinco por cento).\n\n(Fonte: regras_financeiras_bolsas.txt, trecho 2.1)",
+    "reference":"5% para pagamento ate o dia 5.",
+    "faithfulness":0.5,
+    "answer_relevancy":0.8229268688,
+    "context_recall":1.0,
+    "context_precision":0.9999999999
+  },
+  {
+    "user_input":"Qual a multa por atraso no pagamento da mensalidade?",
+    "retrieved_contexts":[
+      "REGRAS FINANCEIRAS E DE BOLSAS\nInstituto de Tecnologia Horizonte (ITH) — 2026.1\nDocumento fictício gerado para fins acadêmicos\n\n1. MENSALIDADES E PAGAMENTOS\n\n1.1  A mensalidade vence todo dia 10 (dez) de cada mês. O pagamento pode ser\nfeito por boleto, PIX ou cartão de crédito através do Portal do Aluno.\n\n1.2  O pagamento após o vencimento incide multa de 2% (dois por cento) mais\njuros de 1% (um por cento) ao mês sobre o valor da parcela.",
+      "1.3  O atraso superior a 90 (noventa) dias pode acarretar a suspensão do acesso\nao Portal do Aluno e a retenção de documentos acadêmicos, conforme legislação.\n\n2. DESCONTOS E PONTUALIDADE\n\n2.1  O pagamento da mensalidade até o dia 5 (cinco) garante desconto de\npontualidade de 5% (cinco por cento).\n\n2.2  Os descontos de pontualidade não são cumulativos com bolsas integrais.\n\n3. BOLSAS DE ESTUDO",
+      "5. CANCELAMENTO E REEMBOLSO\n\n5.1  O aluno que cancelar a matrícula até 7 (sete) dias após o início das aulas\ntem direito a reembolso de 80% do valor pago no semestre.\n\n5.2  Após esse prazo, não há reembolso das parcelas já vencidas, sendo devida a\nparcela do mês em curso.",
+      "3. BOLSAS DE ESTUDO\n\n3.1  Bolsa de Mérito Acadêmico: concedida ao aluno com média geral igual ou\nsuperior a 9,0 no semestre anterior, no valor de 30% de desconto na\nmensalidade.\n\n3.2  Bolsa Monitoria: o aluno monitor recebe 20% de desconto na mensalidade,\nmediante seleção e cumprimento de 12 horas semanais de monitoria.\n\n3.3  Bolsa Socioeconômica: concedida mediante análise de renda familiar per\ncapita, podendo variar de 25% a 100% de desconto, com renovação semestral.",
+      "Art. 14  O estudante reprovado em mais de 3 disciplinas ficará retido no\nperíodo, cursando prioritariamente as disciplinas pendentes.\n\nTÍTULO VI — DO REGIME DISCIPLINAR\n\nArt. 15  Constituem infrações disciplinares a fraude acadêmica, o plágio, a\ncola em avaliações e o uso indevido de recursos da instituição.\n\nArt. 16  As penalidades aplicáveis são: advertência verbal, advertência\nescrita, suspensão e, em casos graves, desligamento, observado o direito à\nampla defesa."
+    ],
+    "response":"A multa por atraso no pagamento da mensalidade é de 2% (dois por cento) mais juros de 1% (um por cento) ao mês sobre o valor da parcela. (Fonte: regras_financeiras_bolsas.txt, trecho 0)",
+    "reference":"Multa de 2% mais juros de 1% ao mes.",
+    "faithfulness":0.5,
+    "answer_relevancy":0.8136982974,
+    "context_recall":1.0,
+    "context_precision":0.9999999999
+  },
+  {
+    "user_input":"Qual media e desconto da bolsa de merito academico?",
+    "retrieved_contexts":[
+      "3. BOLSAS DE ESTUDO\n\n3.1  Bolsa de Mérito Acadêmico: concedida ao aluno com média geral igual ou\nsuperior a 9,0 no semestre anterior, no valor de 30% de desconto na\nmensalidade.\n\n3.2  Bolsa Monitoria: o aluno monitor recebe 20% de desconto na mensalidade,\nmediante seleção e cumprimento de 12 horas semanais de monitoria.\n\n3.3  Bolsa Socioeconômica: concedida mediante análise de renda familiar per\ncapita, podendo variar de 25% a 100% de desconto, com renovação semestral.",
+      "1.3  O atraso superior a 90 (noventa) dias pode acarretar a suspensão do acesso\nao Portal do Aluno e a retenção de documentos acadêmicos, conforme legislação.\n\n2. DESCONTOS E PONTUALIDADE\n\n2.1  O pagamento da mensalidade até o dia 5 (cinco) garante desconto de\npontualidade de 5% (cinco por cento).\n\n2.2  Os descontos de pontualidade não são cumulativos com bolsas integrais.\n\n3. BOLSAS DE ESTUDO",
+      "3.4  É vedado o acúmulo de mais de uma bolsa pelo mesmo aluno; prevalece a de\nmaior percentual de desconto.\n\n4. RENOVAÇÃO E PERDA DE BOLSA\n\n4.1  A bolsa é renovada semestralmente, condicionada à manutenção de frequência\nmínima de 75% e à ausência de reprovações no semestre.\n\n4.2  O aluno perde a bolsa em caso de reprovação em qualquer disciplina,\ntrancamento de matrícula ou sanção disciplinar.\n\n5. CANCELAMENTO E REEMBOLSO",
+      "TÍTULO III — DA FREQUÊNCIA E AVALIAÇÃO\n\nArt. 5º  É obrigatória a frequência mínima de 75% (setenta e cinco por cento)\nda carga horária de cada disciplina.\n\nArt. 6º  O estudante que não atingir a frequência mínima de 75% será reprovado\npor falta na disciplina, independentemente do seu desempenho nas avaliações.\n\nArt. 7º  A nota final de cada disciplina varia de 0 (zero) a 10 (dez), sendo\naprovado o estudante que obtiver nota final igual ou superior a 6,0 (seis).",
+      "Art. 8º  O estudante com nota final entre 4,0 e 5,9 terá direito a uma prova\nfinal (exame). Após o exame, será aprovado quem obtiver média igual ou\nsuperior a 5,0 entre a nota final e a nota do exame.\n\nArt. 9º  O estudante com nota final inferior a 4,0 será reprovado por nota, sem\ndireito a exame.\n\nTÍTULO IV — DO TRANCAMENTO E CANCELAMENTO"
+    ],
+    "response":"A bolsa de mérito acadêmico é concedida ao aluno com média geral igual ou superior a 9,0 no semestre anterior, oferecendo um desconto de 30% na mensalidade.\n\nFonte: regras_financeiras_bolsas.txt, trecho 2",
+    "reference":"Media igual ou superior a 9,0, com 30% de desconto.",
+    "faithfulness":0.6666666667,
+    "answer_relevancy":0.7869394987,
+    "context_recall":1.0,
+    "context_precision":0.9999999999
+  },
+  {
+    "user_input":"Tenho direito a reembolso se cancelar a matricula?",
+    "retrieved_contexts":[
+      "5. CANCELAMENTO E REEMBOLSO\n\n5.1  O aluno que cancelar a matrícula até 7 (sete) dias após o início das aulas\ntem direito a reembolso de 80% do valor pago no semestre.\n\n5.2  Após esse prazo, não há reembolso das parcelas já vencidas, sendo devida a\nparcela do mês em curso.",
+      "Art. 12  O cancelamento de matrícula é definitivo e rompe o vínculo do\nestudante com a instituição, exigindo novo processo seletivo para reingresso.\n\nTÍTULO V — DO APROVEITAMENTO E DEPENDÊNCIA\n\nArt. 13  O estudante reprovado em até 3 (três) disciplinas poderá cursá-las em\nregime de dependência no semestre seguinte, sem prejuízo das disciplinas\nregulares do período.",
+      "TÍTULO II — DA MATRÍCULA\n\nArt. 3º  A matrícula é o ato formal que vincula o estudante a um curso e deve\nser renovada a cada semestre dentro do prazo fixado no Calendário Acadêmico.\n\nArt. 4º  O estudante que não renovar a matrícula no prazo será considerado em\nabandono de curso, salvo justificativa aceita pela Coordenação.\n\nParágrafo único. A reabertura de matrícula após abandono depende de\ndisponibilidade de vaga e de requerimento protocolado na Secretaria.",
+      "3.4  É vedado o acúmulo de mais de uma bolsa pelo mesmo aluno; prevalece a de\nmaior percentual de desconto.\n\n4. RENOVAÇÃO E PERDA DE BOLSA\n\n4.1  A bolsa é renovada semestralmente, condicionada à manutenção de frequência\nmínima de 75% e à ausência de reprovações no semestre.\n\n4.2  O aluno perde a bolsa em caso de reprovação em qualquer disciplina,\ntrancamento de matrícula ou sanção disciplinar.\n\n5. CANCELAMENTO E REEMBOLSO",
+      "TÍTULO IV — DO TRANCAMENTO E CANCELAMENTO\n\nArt. 10  O trancamento de matrícula suspende temporariamente os estudos sem\nperda do vínculo com a instituição, pelo prazo máximo de 2 (dois) semestres\nconsecutivos.\n\nArt. 11  O trancamento somente é permitido após a conclusão do primeiro\nsemestre do curso e deve ser solicitado até o último dia útil antes do início\ndo período de provas."
+    ],
+    "response":"Sim, você tem direito a um reembolso se cancelar a matrícula até 7 dias após o início das aulas. Neste caso, será concedido 80% do valor pago no semestre.\n\nFonte: [regras_financeiras_bolsas.txt, trecho 5].",
+    "reference":"80% do valor pago se cancelar ate 7 dias apos o inicio das aulas.",
+    "faithfulness":0.6666666667,
+    "answer_relevancy":0.700229249,
+    "context_recall":1.0,
+    "context_precision":0.9999999999
+  }
+]

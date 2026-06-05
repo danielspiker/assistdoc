@@ -1,0 +1,59 @@
+NORMAS DO TRABALHO DE CONCLUSÃO DE CURSO (TCC)
+Instituto de Tecnologia Horizonte (ITH) — 2026.1
+Curso de Análise e Desenvolvimento de Sistemas
+Documento fictício gerado para fins acadêmicos
+
+CAPÍTULO 1 — NATUREZA E OBJETIVOS
+
+Art. 1º  No curso de ADS, o Trabalho de Conclusão de Curso (TCC) é substituído
+pelo Projeto Integrador Final, desenvolvido no 5º período.
+
+Art. 2º  O Projeto Integrador Final consiste no desenvolvimento de um sistema
+de software funcional acompanhado de relatório técnico e apresentação oral.
+
+CAPÍTULO 2 — DOS GRUPOS E PRAZOS
+
+Art. 3º  O projeto deve ser desenvolvido em grupos de 3 (três) a 5 (cinco)
+integrantes.
+
+Art. 4º  A composição dos grupos deve ser definida e comunicada à coordenação
+até a segunda semana do semestre.
+
+Art. 5º  A entrega final do código-fonte e do relatório técnico ocorre na 8ª
+semana letiva, seguida de apresentação oral na semana seguinte.
+
+CAPÍTULO 3 — DO RELATÓRIO TÉCNICO
+
+Art. 6º  O relatório técnico deve ter no mínimo 15 (quinze) páginas e conter,
+obrigatoriamente: introdução, arquitetura do sistema, decisões técnicas,
+implementação, avaliação de resultados, dificuldades e conclusão.
+
+Art. 7º  O relatório deve ser entregue em formato PDF e o código-fonte
+disponibilizado em repositório público no GitHub.
+
+CAPÍTULO 4 — DA AVALIAÇÃO
+
+Art. 8º  A nota do Projeto Integrador Final compõe-se de: implementação técnica
+(40%), relatório (30%) e apresentação oral (30%).
+
+Art. 9º  É aprovado o grupo que obtiver nota final igual ou superior a 6,0.
+
+Art. 10  O plágio de código de outros grupos ou a cópia integral de projetos da
+internet resultará em nota zero para todos os integrantes do grupo.
+
+CAPÍTULO 5 — DO USO DE INTELIGÊNCIA ARTIFICIAL
+
+Art. 11  É permitido e incentivado o uso de ferramentas de IA generativa no
+desenvolvimento, desde que todo código gerado seja compreendido, revisado e
+adaptado pelo grupo.
+
+Art. 12  O grupo deve ser capaz de explicar qualquer trecho do código durante a
+apresentação e deve declarar no relatório quais ferramentas de IA foram usadas.
+
+CAPÍTULO 6 — DA APRESENTAÇÃO
+
+Art. 13  A apresentação oral terá duração de 15 a 20 minutos, incluindo
+demonstração ao vivo do sistema em funcionamento.
+
+Art. 14  Todos os integrantes do grupo devem participar da apresentação, salvo
+justificativa formal aceita pela coordenação.

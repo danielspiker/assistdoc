@@ -1,0 +1,33 @@
+# API
+fastapi==0.115.*
+uvicorn[standard]==0.32.*
+python-multipart==0.0.*
+
+# RAG / LLM
+langchain==0.3.*
+langchain-community==0.3.*
+langchain-ollama==0.2.*
+langchain-chroma==0.1.*
+chromadb==0.5.*
+
+# Documentos
+pypdf==5.*
+docx2txt==0.8
+
+# Banco / Auth (projeto Seguro)
+sqlalchemy==2.0.*
+python-jose[cryptography]==3.3.*
+passlib[bcrypt]==1.7.*
+bcrypt==5.*
+email-validator==2.*
+
+# Frontend
+streamlit==1.40.*
+requests==2.32.*
+
+# Config
+python-dotenv==1.0.*
+
+# Avaliacao (RAGAS + juiz Gemini)
+ragas==0.2.*
+langchain-google-genai==2.*

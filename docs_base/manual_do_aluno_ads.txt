@@ -1,0 +1,71 @@
+MANUAL DO ALUNO
+Curso: Análise e Desenvolvimento de Sistemas (ADS)
+Instituto de Tecnologia Horizonte (ITH) — 2026.1
+Documento fictício gerado para fins acadêmicos
+
+1. APRESENTAÇÃO DO CURSO
+
+1.1  O curso de Análise e Desenvolvimento de Sistemas (ADS) é um curso superior
+de tecnologia com duração de 5 (cinco) semestres e carga horária total de 2.000
+horas, formando o profissional Tecnólogo em ADS.
+
+1.2  O curso habilita o egresso a analisar, projetar, desenvolver, testar e
+manter sistemas de informação, aplicando boas práticas de engenharia de
+software e segurança.
+
+2. MATRIZ CURRICULAR (RESUMO)
+
+2.1  1º Período: Lógica de Programação, Algoritmos, Matemática Aplicada,
+Fundamentos de Sistemas, Inglês Técnico.
+
+2.2  2º Período: Programação Orientada a Objetos, Banco de Dados I, Estruturas
+de Dados, Engenharia de Software I.
+
+2.3  3º Período: Construindo Sistemas Inteligentes (IA), Construção de Sistemas
+Seguros, Banco de Dados II, Desenvolvimento Web.
+
+2.4  4º Período: Desenvolvimento Mobile, APIs e Microsserviços, DevOps,
+Gestão de Projetos.
+
+2.5  5º Período: Projeto Integrador Final, Estágio Supervisionado, Tópicos
+Avançados, Empreendedorismo.
+
+3. SISTEMA DE AVALIAÇÃO
+
+3.1  Cada disciplina possui 2 (duas) notas parciais por semestre, denominadas
+N1 e N2, ambas variando de 0 a 10.
+
+3.2  A nota final da disciplina é a média aritmética de N1 e N2.
+
+3.3  É aprovado o aluno com nota final igual ou superior a 6,0 e frequência
+mínima de 75%, conforme o Regimento Acadêmico (Art. 5º e Art. 7º).
+
+3.4  O aluno pode solicitar revisão de prova em até 3 (três) dias úteis após a
+divulgação da nota, mediante requerimento à Coordenação.
+
+4. ESTÁGIO E ATIVIDADES COMPLEMENTARES
+
+4.1  O Estágio Supervisionado é obrigatório no 5º período, com carga mínima de
+160 horas, regido pela Política de Estágio.
+
+4.2  O aluno deve cumprir 100 (cem) horas de Atividades Complementares ao longo
+do curso (palestras, cursos, hackathons, monitorias).
+
+5. SERVIÇOS AO ALUNO
+
+5.1  A Secretaria Acadêmica atende de segunda a sexta, das 8h às 21h, para
+emissão de documentos, declarações e protocolos.
+
+5.2  O Portal do Aluno disponibiliza notas, faltas, boletos e materiais. O
+acesso é feito com matrícula e senha individual.
+
+5.3  A Biblioteca permite empréstimo de até 3 livros por 14 dias, renováveis
+caso não haja reserva.
+
+6. CANAIS DE ATENDIMENTO
+
+6.1  Coordenação de ADS: coordenacao.ads@ith.edu.br (fictício).
+
+6.2  Suporte ao Portal do Aluno: suporte@ith.edu.br (fictício).
+
+6.3  Ouvidoria: para reclamações e sugestões, através do Portal do Aluno.
