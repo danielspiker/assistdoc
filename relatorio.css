@@ -1,0 +1,16 @@
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  font-size: 11pt;
+  line-height: 1.45;
+  color: #1a1a1a;
+}
+h1 { font-size: 20pt; border-bottom: 2px solid #1A3A6B; padding-bottom: 4px; }
+h2 { font-size: 15pt; color: #1A3A6B; margin-top: 22px; border-bottom: 1px solid #ccc; padding-bottom: 2px; }
+h3 { font-size: 12.5pt; color: #2E4A7B; }
+code, pre { font-family: "Consolas", "DejaVu Sans Mono", monospace; font-size: 9.5pt; }
+pre { background: #f4f6fa; padding: 8px; border: 1px solid #dde; border-radius: 4px; white-space: pre; }
+img { max-width: 100%; height: auto; border: 1px solid #ccc; margin: 6px 0; }
+table { border-collapse: collapse; width: 100%; font-size: 9.5pt; margin: 8px 0; }
+th, td { border: 1px solid #bbb; padding: 4px 7px; text-align: left; vertical-align: top; }
+th { background: #eaf0fb; }
+blockquote { border-left: 3px solid #1A3A6B; margin: 8px 0; padding: 2px 12px; color: #444; background: #f7f9fc; }
