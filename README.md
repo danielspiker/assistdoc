@@ -4,7 +4,7 @@ Assistente inteligente de documentos academicos. Responde perguntas em linguagem
 natural sobre regimento, manual do aluno e politicas da instituicao, citando a
 fonte (documento + pagina). Usa **RAG** + **Long Context**.
 
-Projeto integrador — cobre duas disciplinas:
+Projeto cobre as disciplinas:
 - **Desenvolver Sistemas Inteligentes (IA):** pipeline RAG + Long Context.
 - **Desenvolver Sistemas Seguros (SEC):** auth JWT, RBAC, auditoria, OWASP.
 
