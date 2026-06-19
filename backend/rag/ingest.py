@@ -48,6 +48,12 @@ def ingest_file(path: str) -> int:
         return 0
 
     store = get_vectorstore()
+    # Dedupe: remove chunks antigos do mesmo arquivo antes de reindexar
+    # (evita duplicatas ao re-subir um documento ja existente).
+    try:
+        store._collection.delete(where={"source": source})
+    except Exception:  # noqa: BLE001
+        pass
     store.add_documents(chunks)
     return len(chunks)
 

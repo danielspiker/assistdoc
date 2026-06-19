@@ -24,6 +24,11 @@ def verify_password(plain: str, hashed: str) -> bool:
         return False
 
 
+# Hash fixo usado para gastar o mesmo tempo de bcrypt quando o usuario NAO existe,
+# evitando enumeracao de contas por diferenca de tempo de resposta (timing attack).
+DUMMY_HASH = hash_password("timing-uniforme-placeholder")
+
+
 def validate_strength(plain: str) -> list[str]:
     """Devolve lista de problemas da senha. Vazia = senha forte.
 

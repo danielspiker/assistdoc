@@ -44,18 +44,23 @@ def authenticate(db: Session, email: str, password: str, ip: str | None = None) 
     email = email.strip().lower()
     user = db.query(User).filter(User.email == email).first()
 
-    # Mensagem generica para nao revelar se o e-mail existe (OWASP).
+    # Mensagem SEMPRE generica para nao revelar se o e-mail existe nem seu estado
+    # (anti-enumeracao). O motivo real fica so no log de auditoria.
+    INVALID = "Credenciais invalidas."
+
     if not user:
+        # Gasta o mesmo tempo de bcrypt de um usuario real (anti-timing attack).
+        passwords.verify_password(password, passwords.DUMMY_HASH)
         log_action(db, "login_fail", email, "usuario inexistente", ip)
-        raise AuthError("Credenciais invalidas.")
+        raise AuthError(INVALID)
 
     if not user.is_active:
         log_action(db, "login_blocked", email, "conta inativa", ip)
-        raise AuthError("Conta desativada.")
+        raise AuthError(INVALID)
 
     if user.locked_until and user.locked_until > _now().replace(tzinfo=None):
         log_action(db, "login_blocked", email, "conta bloqueada", ip)
-        raise AuthError("Conta temporariamente bloqueada. Tente mais tarde.")
+        raise AuthError(INVALID)
 
     if not passwords.verify_password(password, user.hashed_password):
         user.failed_attempts += 1

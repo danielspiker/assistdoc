@@ -22,8 +22,18 @@ from backend.auth.deps import get_current_user, require_role, revoke, client_ip
 from backend.audit.logger import log_action
 
 
+# Segredos fracos/padrao que NAO podem ser usados em execucao.
+_WEAK_SECRETS = {"", "dev-secret-trocar", "troque-isto-por-uma-chave-longa-aleatoria"}
+
+
 @asynccontextmanager
 async def lifespan(app: FastAPI):
+    # Fail-fast: nao sobe a API com JWT_SECRET fraco/padrao (evita token forjavel).
+    if config.JWT_SECRET in _WEAK_SECRETS or len(config.JWT_SECRET) < 32:
+        raise RuntimeError(
+            "JWT_SECRET ausente, padrao ou curto. Defina um segredo forte no .env "
+            "(ex.: python -c \"import secrets; print(secrets.token_urlsafe(48))\")."
+        )
     init_db()  # cria tabelas se nao existirem
     yield
 
@@ -175,15 +185,23 @@ def admin_ingest(file: UploadFile = File(...), request: Request = None,
     if ext not in SUPPORTED_EXTS:
         raise HTTPException(400, f"Formato nao suportado: {ext}. Use {SUPPORTED_EXTS}.")
 
+    # Limite de tamanho (anti-DoS): le no maximo MAX+1 byte para nao estourar RAM.
+    max_bytes = config.MAX_UPLOAD_MB * 1024 * 1024
+    data = file.file.read(max_bytes + 1)
+    if len(data) > max_bytes:
+        raise HTTPException(413, f"Arquivo excede o limite de {config.MAX_UPLOAD_MB} MB.")
+
     os.makedirs(config.STORAGE_DIR, exist_ok=True)
     destino = os.path.join(config.STORAGE_DIR, nome)
     with open(destino, "wb") as f:
-        f.write(file.file.read())
+        f.write(data)
 
     try:
         n_chunks = ingest_file(destino)
     except Exception as e:  # noqa: BLE001
-        raise HTTPException(500, f"Falha ao indexar: {e}")
+        # Detalhe so no log do servidor; cliente recebe mensagem generica.
+        print(f"[admin_ingest] erro ao indexar {nome}: {e}")
+        raise HTTPException(500, "Falha ao indexar o documento.")
 
     log_action(db, "upload_doc", admin.email, f"{nome} ({n_chunks} chunks)",
                client_ip(request))

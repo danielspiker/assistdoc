@@ -29,6 +29,9 @@ JWT_SECRET = os.getenv("JWT_SECRET", "dev-secret-trocar")
 JWT_EXPIRE_MINUTES = int(os.getenv("JWT_EXPIRE_MINUTES", "15"))
 MAX_LOGIN_ATTEMPTS = int(os.getenv("MAX_LOGIN_ATTEMPTS", "5"))
 
+# Upload
+MAX_UPLOAD_MB = int(os.getenv("MAX_UPLOAD_MB", "10"))
+
 # Caminhos
 CHROMA_DIR = os.getenv("CHROMA_DIR", "./chroma_db")
 STORAGE_DIR = os.getenv("STORAGE_DIR", "./storage")
