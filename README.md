@@ -9,7 +9,7 @@ Projeto cobre as disciplinas:
 - **Desenvolver Sistemas Seguros (SEC):** auth JWT, RBAC, auditoria, OWASP.
 
 ## Apresentação em vídeo
-https://youtu.be/cgt7ZsEVodM
+https://youtu.be/8Jd07g4r7AA
 
 ## Grupo
 - Daniel Marques do Nascimento — 2415050075
